@@ -1,5 +1,5 @@
 # Lead_Score_Case_Study
-Upgrad Case Study on Lead Scoring
+Upgrad Group Case Study on Lead Scoring by Sai Kamal Chand, Sampath and Chandan Singh
 
 Problem Statement: An education company named X Education sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website and browse for courses.
 
